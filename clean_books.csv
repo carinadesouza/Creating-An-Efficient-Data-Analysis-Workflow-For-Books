@@ -1,0 +1,57 @@
+"book","review","state","price","standardized_state","review_num","is_high_review"
+"R Made Easy","Excellent","Texas",19.99,"TX",5,TRUE
+"R For Dummies","Fair","New York",15.99,"NY",2,FALSE
+"R Made Easy","Excellent","New York",19.99,"NY",5,TRUE
+"R Made Easy","Poor","Florida",19.99,"FL",1,FALSE
+"Secrets Of R For Advanced Students","Great","Texas",50,"TX",4,TRUE
+"R Made Easy","Great","Florida",19.99,"FL",4,TRUE
+"R Made Easy","Poor","California",19.99,"CA",1,FALSE
+"Top 10 Mistakes R Beginners Make","Fair","California",29.99,"CA",2,FALSE
+"Secrets Of R For Advanced Students","Fair","Texas",50,"TX",2,FALSE
+"R Made Easy","Great","New York",19.99,"NY",4,TRUE
+"Top 10 Mistakes R Beginners Make","Fair","Texas",29.99,"TX",2,FALSE
+"Top 10 Mistakes R Beginners Make","Good","California",29.99,"CA",3,FALSE
+"Secrets Of R For Advanced Students","Excellent","California",50,"CA",5,TRUE
+"R For Dummies","Good","Florida",15.99,"FL",3,FALSE
+"Top 10 Mistakes R Beginners Make","Fair","Florida",29.99,"FL",2,FALSE
+"R For Dummies","Great","California",15.99,"CA",4,TRUE
+"Top 10 Mistakes R Beginners Make","Poor","Florida",29.99,"FL",1,FALSE
+"R For Dummies","Excellent","California",15.99,"CA",5,TRUE
+"Top 10 Mistakes R Beginners Make","Fair","Texas",29.99,"TX",2,FALSE
+"R Made Easy","Good","California",19.99,"CA",3,FALSE
+"Top 10 Mistakes R Beginners Make","Poor","Florida",29.99,"FL",1,FALSE
+"R For Dummies","Poor","California",15.99,"CA",1,FALSE
+"Top 10 Mistakes R Beginners Make","Great","New York",29.99,"NY",4,TRUE
+"R Made Easy","Poor","New York",19.99,"NY",1,FALSE
+"Secrets Of R For Advanced Students","Poor","Florida",50,"FL",1,FALSE
+"Secrets Of R For Advanced Students","Poor","New York",50,"NY",1,FALSE
+"Top 10 Mistakes R Beginners Make","Good","New York",29.99,"NY",3,FALSE
+"R For Dummies","Great","Texas",15.99,"TX",4,TRUE
+"R For Dummies","Good","California",15.99,"CA",3,FALSE
+"R Made Easy","Fair","California",19.99,"CA",2,FALSE
+"Fundamentals of R For Beginners","Great","New York",39.99,"NY",4,TRUE
+"R For Dummies","Good","Florida",15.99,"FL",3,FALSE
+"R Made Easy","Good","New York",19.99,"NY",3,FALSE
+"R For Dummies","Great","Texas",15.99,"TX",4,TRUE
+"R For Dummies","Fair","Texas",15.99,"TX",2,FALSE
+"Secrets Of R For Advanced Students","Fair","New York",50,"NY",2,FALSE
+"Fundamentals of R For Beginners","Great","New York",39.99,"NY",4,TRUE
+"Secrets Of R For Advanced Students","Great","Texas",50,"TX",4,TRUE
+"R For Dummies","Great","Texas",15.99,"TX",4,TRUE
+"R Made Easy","Good","Texas",19.99,"TX",3,FALSE
+"Secrets Of R For Advanced Students","Excellent","Florida",50,"FL",5,TRUE
+"R Made Easy","Great","California",39.99,"CA",4,TRUE
+"Fundamentals of R For Beginners","Poor","Texas",39.99,"TX",1,FALSE
+"Fundamentals of R For Beginners","Excellent","Florida",29.99,"FL",5,TRUE
+"R For Dummies","Excellent","California",15.99,"CA",5,TRUE
+"R For Dummies","Poor","Texas",15.99,"TX",1,FALSE
+"R For Dummies","Poor","Texas",29.99,"TX",1,FALSE
+"Secrets Of R For Advanced Students","Poor","Florida",50,"FL",1,FALSE
+"Fundamentals of R For Beginners","Good","New York",39.99,"NY",3,FALSE
+"R Made Easy","Excellent","California",19.99,"CA",5,TRUE
+"Top 10 Mistakes R Beginners Make","Great","Texas",29.99,"TX",4,TRUE
+"Top 10 Mistakes R Beginners Make","Excellent","California",29.99,"CA",5,TRUE
+"Fundamentals of R For Beginners","Excellent","Texas",39.99,"TX",5,TRUE
+"Top 10 Mistakes R Beginners Make","Excellent","California",29.99,"CA",5,TRUE
+"R Made Easy","Great","California",19.99,"CA",4,TRUE
+"Top 10 Mistakes R Beginners Make","Great","Texas",29.99,"TX",4,TRUE
